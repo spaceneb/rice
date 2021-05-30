@@ -1,0 +1,2 @@
+# rice
+Rice yo terminal
