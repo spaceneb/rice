@@ -1,0 +1,17 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = spaceneb
+	email = spaceneb@tutanota.com
+	signingkey = ADA08420360D0F11
+[core]
+	precomposeUnicode = true
+[init]
+	defaultBranch = master
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg
