@@ -15,13 +15,16 @@ Rice yo life
 ## Recommended Software
 - [Brew](https://github.com/Homebrew/brew)
 - [Discord (Not Open Source)](https://discord.com)
+- [gotop](https://github.com/xxxserxxx/gotop)
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc)
 - [Monero Desktop](https://github.com/monero-project/monero)
+- [Neofetch](https://github.com/dylanaraps/neofetch)
+- [Neovim](https://github.com/neovim/neovim)
 - [Powercord](https://github.com/powercord-org/powercord)
 - [PreMiD](https://github.com/PreMiD/PreMiD)
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
 - [VSCodium](https://github.com/VSCodium/vscodium)
-### Reccomended Addons
+### Recommended Addons
 **Chromium**
 - [Chromium Webstore](https://github.com/NeverDecaf/chromium-web-store)
 - [HTTPS Everywhere](https://github.com/EFForg/https-everywhere)
