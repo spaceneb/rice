@@ -1,5 +1,6 @@
 # rice
 Rice yo life
+![Screenshot](image.png)
 
 ## Software Required
 - [Dracula for VIM](https://github.com/dracula/vim)
