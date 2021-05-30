@@ -1,1 +1,72 @@
-{"name":"Pinkity","version":"1.0","description":"A nice pink theme","manifest_version":2,"theme":{"images":{"theme_frame":"images\/theme_frame.png","theme_toolbar":"images\/theme_toolbar.png","theme_tab_background":"images\/theme_tab_background.png"},"colors":{"frame":[247,212,255],"toolbar":[198,116,218],"tab_text":[255,255,255],"tab_background_text":[198,116,218],"bookmark_text":[255,255,255],"ntp_background":[255,255,255],"ntp_text":[198,116,218],"ntp_link":[178,29,214],"button_background":[198,116,218,1]},"tints":{"buttons":[0,0,1]},"properties":{"ntp_background_alignment":"bottom","ntp_background_repeat":"no-repeat"}}}
+{
+  name: "Pinkity",
+  version: "1.0",
+  description: "A nice pink theme",
+  manifest_version: 2,
+  theme: {
+    images: {
+    theme_frame: "images/theme_frame.png",
+    theme_toolbar: "images/theme_toolbar.png",
+    theme_tab_background: "images/theme_tab_background.png"
+    },
+    colors: {
+      frame: [
+        247,
+        212,
+        255
+      ],
+      toolbar: [
+        198,
+        116,
+        218
+      ],
+      tab_text: [
+        255,
+        255,
+        255
+      ],
+      tab_background_text: [
+        198,
+        116,
+        218
+      ],
+      bookmark_text: [
+        255,
+        255,
+        255
+      ],
+      ntp_background: [
+        255,
+        255,
+        255
+      ],
+      ntp_text: [
+        198,
+        116,
+        218
+      ],
+      ntp_link: [
+        178,
+        29,
+        214
+      ],
+      button_background: [
+        198,
+        116,
+        218,
+        1
+      ]
+     },
+    tints: {
+      buttons: [
+        0,
+        0,
+        1
+      ]
+    },
+    properties: {
+      ntp_background_alignment: "bottom",
+      ntp_background_repeat: "no-repeat"
+    }
+  }
+}
