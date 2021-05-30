@@ -18,7 +18,6 @@ export GPG_TTY=/dev/ttys000
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 autoload -U compinit colors vcs_info
 colors
-compinit
 REPORTTIME=3
 HISTFILE=~/.zhistory
 HISTSIZE=5000
