@@ -31,7 +31,8 @@ Rice yo life
 - [uBlock Origin](https://github.com/gorhill/uBlock)
 - [WhatRuns (Not Open Source)](https://www.whatruns.com)
 - [XBrowserSync](https://github.com/xbrowsersync/app)
-<br>**VSCodium**
+
+**VSCodium**
 - [CodeQL](https://github.com/github/vscode-codeql)
 - [Community Material Theme](https://github.com/material-theme/vsc-community-material-theme)
 - [Discord Presence](https://github.com/iCrawl/discord-vscode)
