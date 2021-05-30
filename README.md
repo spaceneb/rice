@@ -3,6 +3,7 @@ Rice yo life
 
 ## Software Required
 - [Dracula for VIM](https://github.com/dracula/vim)
+- [DroidSansMono Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 - [Fortune](http://bxr.su/OpenBSD/games/fortune)
 - [Git](https://github.com/git/git)
 - [GNUPG](https://git.gnupg.org/cgi-bin/gitweb.cgi?p=gnupg.git;a=summary)
