@@ -37,6 +37,10 @@ Rice yo life
 - [WhatRuns (Not Open Source)](https://www.whatruns.com)
 - [XBrowserSync](https://github.com/xbrowsersync/app)
 
+**Yabai**
+- [nibar](https://github.com/kkga/nibar)
+- [Ubersicht](https://github.com/felixhageloh/uebersicht)
+
 **VSCodium**
 - [CodeQL](https://github.com/github/vscode-codeql)
 - [Community Material Theme](https://github.com/material-theme/vsc-community-material-theme)
