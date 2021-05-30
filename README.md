@@ -10,7 +10,7 @@ Rice yo life
 - [Oh My ZSH](https://github.com/ohmyzsh/ohmyzsh)
 - [Powerline10k](https://github.com/romkatv/powerlevel10k)
 - [SKHD](https://github.com/koekeishiya/skhd)
-- [Vim (or NeoVim)[https://github.com/vim/vim]
+- [Vim (or NeoVim)](https://github.com/vim/vim)
 - [Yabai](https://github.com/koekeishiya/yabai)
 - [ZSH](https://sourceforge.net/p/zsh/code/ci/master/tree)
 ## Recommended Software
