@@ -44,8 +44,3 @@ Rice yo life
 - [Live Server](https://github.com/ritwickdey/vscode-live-server)
 - [Material Theme Icons](https://github.com/material-theme/vsc-material-theme-icons)
 - [WakaTime](https://github.com/wakatime/vscode-wakatime)
-
-### Minify Powerline10k Config
-```
-cat .p10k.zsh | grep -o '^[^#]*' - | grep -v -e '^[[:space:]]*$' - | tee .p10k.zsh
-```
